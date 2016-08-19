@@ -123,7 +123,9 @@ Dette kapittelet redegjør kort for prosjektets risikobilde. Forklaring til tabe
 
 |===
 |Risiko	|Konsekvenser	|S	|K	|R	|Tiltak
+
 |Får ikke tak i gode nok ressurser i tilstrekkelig grad
+{set:cellbgcolor:red}
 |Ikke god nok forankring. Ikke god nok kvalitet på resultatene.Huller på enkelte fagområder.
 |4	
 |4	
@@ -132,10 +134,12 @@ Dette kapittelet redegjør kort for prosjektets risikobilde. Forklaring til tabe
 
 |Samarbeidsproblemer mellom partene
 |Full stans i arbeidet
+
 |3	
 |5	
 |15	
 |Avklare mandat.
+
 
 |Ulikt kunnskapsnivå om OpenEHR blant fagressursene, skaper fremmedgjøring og dårlig klima.
 |Ikke god nok kvalitet, da fagfolka ikke klarer å bidra.	
@@ -145,6 +149,7 @@ Dette kapittelet redegjør kort for prosjektets risikobilde. Forklaring til tabe
 |Opplæring i OpenEHR. Holde seg til de grunnleggende teknikkene, og unngå de vanskelige modelleringsmessige drøftingene i plenum.
 
 |Ikke tilstrekkelig kvalitet på grunnlaget (utkastene til arketyper/templater)
+{set:cellbgcolor!}
 |Forsinkelser i arbeidet
 |2	
 |4	
