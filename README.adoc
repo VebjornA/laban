@@ -9,13 +9,14 @@ Dato: 17.8.2016
 |===
 |Dato	|Versjon	|Endret av	|Punkt / side	|Endring / kommentar
 |17.8.2016 |	0.1	|JT	|Hele	|Første utkast
+|22.8.2016 |    0.2     |VA     |Bakgrunn, Målbilde, småplukk  |Presisering på målbilde og Målbilde
 |===
 
 == Bakgrunn
 
-OpenEHR er en internasjonal standard for helseinformatikk. Mer om denne her: www.openehr.org.  Denne har fått oppmerksomhet i Norge og sykehusene i form av Nasjonal IKT har besluttet å ta denne i bruk og tilpasse innholdet til norsk. Flere leverandører har interessert seg for OpenEHR og DIPS med DIPS Arena og Fürst med WebMed støtter begge OpenEHR. En rekke arketyper er oversatt til norsk, mens mange er i arbeid.  Nasjonal IKT har tatt ansvaret for håndtering av oversettelser til norsk og koordinering med det internasjonale arbeidet.
+openEHR er en internasjonal standard for helseinformatikk. Mer om denne her: www.openehr.org.  Denne har fått oppmerksomhet i Norge og sykehusene i form av Nasjonal IKT har besluttet å ta denne i bruk og tilpasse innholdet til norsk. Flere leverandører har interessert seg for openEHR, og DIPS med DIPS Arena og Fürst med WebMed støtter begge openEHR. En rekke arketyper er oversatt til norsk, mens mange er i arbeid.  Nasjonal IKT har ansvaret for et norsk nasjonalt bibliotek av arketyper (http://arketyper.no), gjennomføre høringsrunder og godkjenning av nye eller oversatte arketyper, rekruttere deltakere til høringer, gjennomføre opplæringsaktiviteter, samt koordinering med det internasjonale openEHR-miljøet.
 
-Det har eksistert ulike utkast til lab-arketyper internasjonalt i en stund, og man har med erfaringer fra disse kommet langt i et arbeidet med å skissere nye og bedre versjoner som kan godkjennes. Man har i Norge et ønske om å komme i gang med bruk av OpenEHr på lab-området, og tiden er derfor inne til å gripe fatt i de nye utkastene og sjekke at disse egner seg for våre behov.
+Det har eksistert ulike utkast til lab-arketyper internasjonalt i en stund, og man har med erfaringer fra disse kommet langt i et arbeidet med å skissere nye og bedre versjoner som kan godkjennes. Man har i Norge et ønske om å komme i gang med bruk av openEHr for lab-området, og tiden er derfor inne til å gripe fatt i de nye utkastene og sjekke at disse egner seg for våre behov.
 
 Prosjektets navn er Laboratorie Arketyper for Norge, forkortet LabAN.
 
@@ -24,7 +25,7 @@ Prosjektets navn er Laboratorie Arketyper for Norge, forkortet LabAN.
 ==	Målbilde
 
 === Formål
-Legge grunnlaget for utvikling av lab-systemer basert på OpenEHR i Norge. Utvikle og spre kunnskap om lab-arketyper i Norge.
+Legge grunnlaget for å kunne benytte arketyper basert på openEHR i elektroniske journalsystemer, samt utvikling av lab-systemer i Norge. Utvikle og spre kunnskap om lab-arketyper i Norge.
 
 
 === Resultatmål
@@ -32,7 +33,7 @@ Legge grunnlaget for utvikling av lab-systemer basert på OpenEHR i Norge. Utvik
 Innen utløpet av 2016 ha etablert:
 
 *	Forslag til endringer i de foreliggende forslag til engelske arketyper og templater på lab-området
-* Oversatte lab-arketypene til norsk
+* Oversette lab-arketypene til norsk
 * Lab-templater for norsk bruk
 * En felles forståelse av lab-området og implementasjonen i OpenEHR for Norge
 
@@ -126,7 +127,7 @@ Dette kapittelet redegjør kort for prosjektets risikobilde. Forklaring til tabe
 
 |Får ikke tak i gode nok ressurser i tilstrekkelig grad
 {set:cellbgcolor:red}
-|Ikke god nok forankring. Ikke god nok kvalitet på resultatene.Huller på enkelte fagområder.
+|Ikke god nok forankring. Ikke god nok kvalitet på resultatene. Huller på enkelte fagområder.
 |4	
 |4	
 |16	
@@ -141,12 +142,12 @@ Dette kapittelet redegjør kort for prosjektets risikobilde. Forklaring til tabe
 |Avklare mandat.
 
 
-|Ulikt kunnskapsnivå om OpenEHR blant fagressursene, skaper fremmedgjøring og dårlig klima.
+|Ulikt kunnskapsnivå om openEHR blant fagressursene, skaper fremmedgjøring og dårlig klima.
 |Ikke god nok kvalitet, da fagfolka ikke klarer å bidra.	
 |3	
 |5	
 |15	
-|Opplæring i OpenEHR. Holde seg til de grunnleggende teknikkene, og unngå de vanskelige modelleringsmessige drøftingene i plenum.
+|Opplæring i openEHR. Holde seg til de grunnleggende teknikkene, og unngå de vanskelige modelleringsmessige drøftingene i plenum.
 
 |Ikke tilstrekkelig kvalitet på grunnlaget (utkastene til arketyper/templater)
 {set:cellbgcolor!}
